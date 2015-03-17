@@ -37,6 +37,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .intro-message {
@@ -118,6 +119,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/banner-bg-1.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .banner-2 {
@@ -125,6 +127,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/banner-bg-2.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .banner h2 {
